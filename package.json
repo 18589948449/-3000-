@@ -639,7 +639,7 @@
         "await-to-js": "^2.1.1",
         "aws-sign2": "^0.7.0",
         "aws4": "^1.10.1",
-        "axios": "^0.20.0",
+        "axios": "^0.21.1",
         "babel-check-duplicated-nodes": "^1.0.0",
         "babel-code-frame": "^6.26.0",
         "babel-core": "^6.26.3",
