@@ -1611,7 +1611,7 @@
         "memfs": "^3.2.0",
         "memory-fs": "^0.5.0",
         "meow": "^7.1.1",
-        "merge": "^1.2.1",
+        "merge": "^2.1.1",
         "merge-descriptors": "^1.0.1",
         "merge-source-map": "^1.1.0",
         "merge-stream": "^2.0.0",
