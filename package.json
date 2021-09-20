@@ -2415,6 +2415,6 @@
         "yn": "^4.0.0",
         "zen-observable": "^0.8.15",
         "zen-observable-ts": "^0.8.21",
-        "zrender": "^4.3.2"
+        "zrender": "^5.2.1"
     }
 }
