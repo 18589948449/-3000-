@@ -1596,7 +1596,7 @@
         "map-obj": "^4.1.0",
         "map-visit": "^1.0.0",
         "markdown-escapes": "^1.0.4",
-        "markdown-it": "^11.0.1",
+        "markdown-it": "^12.3.2",
         "markdown-it-anchor": "^6.0.0",
         "markdown-table": "^2.0.0",
         "marked": "^1.2.0",
