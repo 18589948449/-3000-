@@ -2188,7 +2188,7 @@
         "test-exclude": "^6.0.0",
         "text-table": "^0.2.0",
         "thread-loader": "^3.0.0",
-        "three": "^0.121.1",
+        "three": "^0.137.0",
         "throat": "^5.0.0",
         "throttle-debounce": "^2.3.0",
         "through": "^2.3.8",
